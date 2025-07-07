@@ -1,4 +1,4 @@
-## Hi there 👋
+## My Weather Dashboard 
 
 <!--
 **jee-17/jee-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
